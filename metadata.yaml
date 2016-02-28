@@ -1,0 +1,25 @@
+_repo: Travels-in-West-Africa-Congo-Francais-Corisco-and-Cameroons_5891
+creator:
+  author:
+    agent_name: Kingsley, Mary Henrietta
+    alias: Kingsley, Mary H.
+    birthdate: 1862
+    deathdate: 1900
+    gutenberg_agent_id: '1894'
+    url: http://www.gutenberg.org/2009/agents/1894
+description: ''
+gutenberg_bookshelf: Africa
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5891'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kingsley, Mary Henrietta, 1862-1900 -- Travel -- Africa, West'
+- !lcsh 'Africa, West -- Description and travel'
+- !lcc 'DT'
+title: 'Travels in West Africa: Congo Français, Corisco and Cameroons'
+url: http://www.gutenberg.org/ebooks/5891
