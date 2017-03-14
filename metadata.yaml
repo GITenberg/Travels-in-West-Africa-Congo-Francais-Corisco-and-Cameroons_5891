@@ -1,5 +1,8 @@
 _repo: Travels-in-West-Africa-Congo-Francais-Corisco-and-Cameroons_5891
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Kingsley, Mary Henrietta
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '1894'
     url: http://www.gutenberg.org/2009/agents/1894
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5891#Travels-in-West-Africa-Congo-Francais-Corisco-and-Cameroons
 gutenberg_bookshelf: Africa
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
