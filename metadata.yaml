@@ -1,5 +1,5 @@
 _repo: Travels-in-West-Africa-Congo-Francais-Corisco-and-Cameroons_5891
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Kingsley, Mary Henrietta, 1862-1900 -- Travel -- Africa, West'
 - !lcsh 'Africa, West -- Description and travel'
 - !lcc 'DT'
+- GITenberg
 title: 'Travels in West Africa: Congo Français, Corisco and Cameroons'
 url: http://www.gutenberg.org/ebooks/5891
